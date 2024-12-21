@@ -21,7 +21,7 @@
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-4254f5?style=for-the-badge&logoColor=white)
 
 ## 🤖 Generative AI
-![Gemini](https://img.shields.io/badge/Gemini-FF6F61?style=for-the-badge&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-FF6F61?style=for-the-badge&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFAE1A?style=for-the-badge&logo=huggingface&logoColor=white)
 
@@ -32,13 +32,10 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-4B8BBE?style=for-the-badge&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFAE1A?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ## 🗄️ Databases
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 
 
 ### ☁️ Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -64,7 +61,7 @@
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/psunilvarma/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SunilVarma24)
 
 ---
 
