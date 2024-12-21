@@ -1,6 +1,6 @@
 # 💻 Welcome to My GitHub Profile!
 
-![Header Image](https://via.placeholder.com/1000x300.png?text=Exploring+Data+Science+and+AI!)
+## Hi there👋. I'm Sunil Varma Patchamatla🧑‍💻!
 
 ## 🌟 About Me
 
