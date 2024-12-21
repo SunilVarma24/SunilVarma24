@@ -25,13 +25,10 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=blue)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
 ### ☁️ Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### 📦 Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -39,7 +36,7 @@
 
 - 💡 **Exploring Generative AI**: Working on beginner-level hands-on projects to innovate and expand knowledge.
 - 📊 **Data Science Projects**: From insurance claim analysis to NLP-driven headline generation, always seeking to solve real-world problems.
-- 🌍 **Community Focused**: Sharing knowledge through open-source contributions and collaborations.
+- 📚 **Hands-On Learning**: Continuously experimenting with new tools and frameworks to stay updated with industry trends.
 
 ---
 
