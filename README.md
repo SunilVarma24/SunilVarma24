@@ -1,6 +1,6 @@
 # 💻 Welcome to My GitHub Profile!
 
-![Header Image](https://via.placeholder.com/1000x300.png?text=Welcome+to+My+GitHub+Profile!)
+![Header Image](https://via.placeholder.com/1000x300.png?text=Exploring+Data+Science+and+AI!)
 
 ## 🌟 About Me
 
@@ -21,7 +21,7 @@
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-4254f5?style=for-the-badge&logoColor=white)
 
 ## 🤖 Generative AI
-![Google Gemini](https://img.shields.io/badge/Gemini-FF6F61?style=for-the-badge&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-FF6F61?style=for-the-badge&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFAE1A?style=for-the-badge&logo=huggingface&logoColor=white)
 
@@ -52,9 +52,10 @@
 
 ## 🚀 Current Goals
 
+- 🎯 Landing my first job in the Data Science or AI field.
 - 🔧 Build Generative AI-driven tools.
 - ☁️ Develop hands-on cloud-based machine learning workflows.
-- 📈 Contribute to impactful open-source projects.
+- 📚 To learn Big Data Tools to handle large-scale, high-velocity datasets effectively and efficiently.
 
 ---
 
