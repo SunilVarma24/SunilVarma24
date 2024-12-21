@@ -2,7 +2,7 @@
 
 ## Hi there👋. I'm Sunil Varma Patchamatla🧑‍💻!
 
-## 🌟 About Me
+### 🌟 About Me
 
 🎓 **Recent Master's Graduate in Data Science**  
 🚀 **Passionate About:** Machine Learning, Deep Learning, Natural Language Processing, and Generative AI.  
