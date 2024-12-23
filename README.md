@@ -45,7 +45,7 @@
 ## 🌈 Highlights
 
 - 💡 **Exploring Generative AI**: Working on beginner-level hands-on projects to innovate and expand knowledge.
-- 📊 **Data Science Projects**: From insurance claim analysis to NLP-driven headline generation, always seeking to solve real-world problems.
+- 📊 **Data Science Applications**: Continuously applying knowledge to solve challenging and impactful problems.
 - 📚 **Hands-On Learning**: Continuously experimenting with new tools and frameworks to stay updated with industry trends.
 
 ---
