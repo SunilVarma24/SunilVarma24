@@ -44,7 +44,7 @@
 
 ## 🌈 Highlights
 
-- 💡 **Exploring Generative AI**: Working on beginner-level hands-on projects to innovate and expand knowledge.
+- 💡 **Exploring Generative AI & Agents**: Working on hands-on projects to innovate and expand knowledge.
 - 📊 **Data Science Applications**: Continuously applying knowledge to solve challenging and impactful problems.
 - 📚 **Hands-On Learning**: Continuously experimenting with new tools and frameworks to stay updated with industry trends.
 
@@ -53,7 +53,7 @@
 ## 🚀 Current Goals
 
 - 🎯 Landing my first job in the Data Science or AI field.
-- 🔧 Build Generative AI & Agents-driven tools.
+- 🔧 Build Generative AI & Agents driven applications.
 - ☁️ Develop hands-on cloud-based machine learning workflows.
 - 📚 To learn Big Data Tools to handle large-scale, high-velocity datasets effectively and efficiently.
 
