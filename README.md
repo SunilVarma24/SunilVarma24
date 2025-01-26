@@ -7,7 +7,7 @@
 🎓 **Recent Master's Graduate in Data Science**  
 🚀 **Passionate About:** Machine Learning, Deep Learning, Natural Language Processing, and Generative AI.  
 🐍 **Programming Language of Choice:** Python  
-📚 **Currently Learning:** Generative AI, and Cloud Platforms (AWS).
+📚 **Currently Learning:** Generative AI, Agents and Cloud Platforms (AWS).
 
 ---
 
@@ -53,7 +53,7 @@
 ## 🚀 Current Goals
 
 - 🎯 Landing my first job in the Data Science or AI field.
-- 🔧 Build Generative AI-driven tools.
+- 🔧 Build Generative AI & Agents-driven tools.
 - ☁️ Develop hands-on cloud-based machine learning workflows.
 - 📚 To learn Big Data Tools to handle large-scale, high-velocity datasets effectively and efficiently.
 
