@@ -5,7 +5,7 @@
 ### 🌟 About Me
 
 🎓 **Recent Master's Graduate in Data Science**  
-🚀 **Passionate About:** Machine Learning, Deep Learning, Natural Language Processing, and Generative AI.  
+🚀 **Passionate About:** Machine Learning, Deep Learning, Natural Language Processing, Generative AI & AI Agents.  
 🐍 **Programming Language of Choice:** Python  
 📚 **Currently Learning:** Generative AI, Agents and Cloud Platforms (AWS).
 
