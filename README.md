@@ -7,7 +7,7 @@
 🎓 **Recent Master's Graduate in Data Science**  
 🚀 **Passionate About:** Machine Learning, Deep Learning, Natural Language Processing, Generative AI & AI Agents.  
 🐍 **Programming Language of Choice:** Python  
-📚 **Currently Learning:** Generative AI, Agents and Cloud Platforms (AWS).
+📚 **Currently Learning:** Generative AI, Agents and Cloud Platforms (Azure).
 
 ---
 
@@ -32,13 +32,16 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-4B8BBE?style=for-the-badge&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ## 🗄️ Databases
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### ☁️ DevOps & Cloud Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ---
 
